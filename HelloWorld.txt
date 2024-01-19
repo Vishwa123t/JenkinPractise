@@ -3,5 +3,6 @@ public class HelloWorld {
 public static void main(String[] args) {
 //TODO Autogenerate method stub
 System.out.println("Hello a world");
+System.out.println("Donno any basics ashole");
 }
 }
